@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>
+            Task1
+        </title>
+        <style>
+      
+       body{
+           background-color: brown;
+           background: url('wp2040429-ragnar-lodbrok-wallpapers.jpg')
+           font-family arial;
+           font-size:20px
+       } 
+        </style>
+    </head>
+    <body>
+        <center>
+            <a href="#c1">Home</a> 
+            <a href="#c2">Categories</a> 
+            <a href="#c2">Contact </a><br><br>    
+        </center>
+        
+        <img src="wp2040429-ragnar-lodbrok-wallpapers.jpg"width="1560" height="450" alt="Ragnar :)" /> 
+        <br>
+        <center>
+            <img src="wp2040423-ragnar-lodbrok-wallpapers.jpg"width="200" height="200"alt="Ragnar :)" /> 
+            <img src="wp2040438-ragnar-lodbrok-wallpapers.jpg"width="200" height="200"alt="Ragnar :)" /> 
+            <img src="wp2040476-ragnar-lodbrok-wallpapers.jpg"width="200" height="200"alt="Ragnar :)" /> 
+            <hr>Contact us for any problem</hr>
+            <br><br>
+                    <form>
+                        <p> Username </p>
+                        <input tybe ="text" name ="username">
+                        <p> E-Mail </p>
+                        <input tybe ="text" name ="e-mail">
+                        <p> Message </p> 
+                        <input type="text" name="message">
+                    </form>
+                    <button name="button">Send</button>
+        </center>
+      
+    </body>
+</html>
